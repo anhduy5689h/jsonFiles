@@ -1,0 +1,79 @@
+{
+  "NewsList": {
+    "Articles": [
+      {
+        "Content": "Tranh phong cảnh thiên nhiên có chủ đề thể hiện rất đa dạng. Các dòng tranh nhỏ tiêu biểu của tranh phong cảnh thiên nhiên có thể kể đến như: tranh làng quê, tranh cảnh biển, tranh thiên nhiên hoang dã…",
+        "ID": 1,
+        "ImageUrl": "https://vn.byhien.com/wp-content/uploads/2020/04/tranh-phong-canh-3-scaled.jpg",
+        "LastModifiedDate": "",
+        "Title": "Title 1"
+      },
+      {
+        "Content": "Giá in tranh 3D phong cảnh thực tế khác nhau. Cũng như những sản phẩm khác giá in tranh dán tường không cố định mà tùy thuộc dựa theo kích thước khổ tranh được đặt ín; kiểu in là in thường hoặc in nổi và số lượng tranh khách hàng đặt in.",
+        "ID": 2,
+        "ImageUrl": "https://stc.bindo.vn/uploads/products/details/tranh-phong-canh-nui-non-tuyet-dep-fuji-va-chua-chureito-do-voi-hoa-anh-dao-sakura-nhat-ban--279.jpg",
+        "LastModifiedDate": "",
+        "Title": "Title 2"
+      },
+      {
+        "Content": "content",
+        "ID": 3,
+        "ImageUrl": "https://mythuattranvuong.com/public/ckeditor/imagesimages/ve-tranh-tuong-phong-canh-cuc-dep-gia-re.jpg",
+        "LastModifiedDate": "",
+        "Title": "Title 3"
+      },
+      {
+        "Content": "content",
+        "ID": 4,
+        "ImageUrl": "http://tranhhoabinh.com/wp-content/uploads/0003PC-1200.jpg",
+        "LastModifiedDate": "",
+        "Title": "Title 4"
+      },
+      {
+        "Content": "content",
+        "ID": 5,
+        "ImageUrl": "http://tranhhoabinh.com/wp-content/uploads/0003PC-1200.jpg",
+        "LastModifiedDate": "",
+        "Title": "Title 5"
+      },
+      {
+        "Content": "content",
+        "ID": 6,
+        "ImageUrl": "https://thienha3d.vn/wp-content/uploads/2018/07/tranh-phong-canh-kho-doc-dep-nhat-cho-phong-khach-5.jpg",
+        "LastModifiedDate": "",
+        "Title": "Title 6"
+      },
+      {
+        "Content": "content",
+        "ID": 7,
+        "ImageUrl": "https://thienha3d.vn/wp-content/uploads/2018/07/tranh-phong-canh-kho-doc-dep-nhat-cho-phong-khach-13.jpg",
+        "LastModifiedDate": "",
+        "Title": "Title 7"
+      },
+      {
+        "Content": "content",
+        "ID": 8,
+        "ImageUrl": "https://wikidecor.vn/FileUpload/Images/phongcanhchauau.jpg",
+        "LastModifiedDate": "",
+        "Title": "Title 8"
+      },
+      {
+        "Content": "content",
+        "ID": 9,
+        "ImageUrl": "https://tranhtrangtri360.com/wp-content/uploads/2019/03/up1-tranh-phong-canh-hoa-anh-dao.jpg",
+        "LastModifiedDate": "",
+        "Title": "Title 9"
+      },
+      {
+        "Content": "content",
+        "ID": 10,
+        "ImageUrl": "https://fileintranh.com/wp-content/uploads/2019/05/1-10-100x100.jpg",
+        "LastModifiedDate": "",
+        "Title": "Title 10"
+      }
+    ],
+    "CurrentPage": 1,
+    "ItemsPerPage": 10,
+    "TotalPages": 3
+  }
+}
